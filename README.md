@@ -2,7 +2,7 @@ Getting Started with Create React App This project was bootstrapped with Create 
 
 First, clone the Repository: git clone https://github.com/AmidQazi/Final-Quiz-App.git
 
-Next, change Directory: cd /quiz-website
+Next, change Directory: cd Final-Quiz-App/Trivia-Quiz-Appp/quiz-website
 
 Install the requirements: npm install
 
